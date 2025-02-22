@@ -14,4 +14,4 @@ For more information on BIOMEDIN 215, check out: [Stanford Explore Courses🌲 B
 
 
 ## Other courses
-- [BIOMEDIN 260](https://github.com/biomedin-260/.github/blob/main/profile/README.md)
+- [BIOMEDIN 260](https://github.com/biomedin-260)
